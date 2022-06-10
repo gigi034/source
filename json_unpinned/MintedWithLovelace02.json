@@ -1,0 +1,21 @@
+{
+	"721": {
+		"POLICY_ID": {
+			"MintedWithLovelace01": {
+				"name": "Minted With Lovelace #01",
+				"image": "IPFS_HASH",
+				"category":"This is a 64 byte long description...limit per json string line.",
+				"long string":[
+					"Long strings can be broken into 64-byte long segments in a list",
+					"such as this, where appropriate, and will be stitched together",
+					"by the wallet or site viewing the metadata."
+				],
+				"attributes":[
+					"Attribute One",
+					"Another attribute",
+					"And another"
+				]
+			}
+		}
+	}
+}
